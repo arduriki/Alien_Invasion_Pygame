@@ -9,3 +9,5 @@ and destroys the aliens. If the player destroys all the aliens, a new fleet
 appears that moves faster than the previous fleet. If any alien hits the
 player's ship or reaches the bottom of the screen, the player loses a ship.
 If the player loses three ships, the game ends.
+
+Project taken from the book: Python Crash Course 3rd Edition by Eric Matthes
