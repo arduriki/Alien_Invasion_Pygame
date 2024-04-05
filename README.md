@@ -11,4 +11,5 @@ player's ship or reaches the bottom of the screen, the player loses a ship.
 If the player loses three ships, the game ends.
 
 Project based on the book: Python Crash Course 3rd Edition by Eric Matthes
+
 I strongly recommend that book to learn Python basics.
